@@ -16,3 +16,8 @@ Description: e.g., Submit project report
 Due Date: e.g., 2025-07-01
 Priority: High / Medium / Low
 Tags: e.g., work, urgent
+
+Custom Exceptions Used in the Project:
+InvalidDateError
+InvalidPriorityError
+TaskNotFoundError
